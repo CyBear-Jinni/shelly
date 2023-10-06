@@ -1,0 +1,16 @@
+name: shelly
+description: Communicate with Shelly smart devices directly through LAN with http requests.
+version: 1.0.0
+repository: https://github.com/CyBear-Jinni/shelly
+homepage: https://usa.shelly.cloud
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  # Library for making HTTP requests.
+  http: ^1.1.0
+
+dev_dependencies:
+  lints: ^2.1.1
+  test: ^1.24.7
