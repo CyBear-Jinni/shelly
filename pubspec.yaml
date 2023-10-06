@@ -1,6 +1,6 @@
 name: shelly
-description: A starting point for Dart libraries or applications.
-version: 1.0.0
+description: Communicate with Shelly smart devices directly through LAN with http requests.
+version: 1.0.0+1
 repository: https://github.com/CyBear-Jinni/shelly
 homepage: https://usa.shelly.cloud
 
