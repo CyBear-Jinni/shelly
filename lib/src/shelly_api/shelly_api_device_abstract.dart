@@ -12,7 +12,7 @@ abstract class ShellyApiDeviceAbstract {
 
   String lastKnownIp;
   String mDnsName;
-  String hostName;
+  String? hostName;
   String? name;
   late String url;
 
